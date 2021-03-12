@@ -1,3 +1,5 @@
+// sortare folosind metoda bubblesort
+
 #include<bits/stdc++.h>
 using namespace std;
 
