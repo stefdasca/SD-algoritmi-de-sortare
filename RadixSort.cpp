@@ -1,3 +1,5 @@
+// sortare folosind radixsort, la fiecare pas numerele sunt grupate in functie de cifra lor cea mai mare
+
 #include<bits/stdc++.h>
 using namespace std;
 
