@@ -1,3 +1,9 @@
+/*
+	Acest cod sursa ruleaza cei 6 algoritmi de sortare pe toate testele generate, masurand timpul 
+necesar fiecarui algoritm de sortare sa ruleze pe array-ul din input, care este citit din fisier, pentru
+fiecare din cele 30 de teste de evaluare
+
+*/
 #include<bits/stdc++.h>
 using namespace std;
 
