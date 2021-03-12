@@ -145,7 +145,8 @@ int main()
 		{
 			t = clock();
 			bool ok = 1;
-			if(n <= 100000)
+			if(n <= 100000) // daca vectorul nu este dat deja sortat, bubble sort va rula prea incet pentru a mai avea sens rularea lui,
+					//  deoarece va rula in cel putin 120 de secunde, mult mai incet decat orice alt algoritm de sortare din lista
 				while(ok)
 				{
 					t2 = clock();
