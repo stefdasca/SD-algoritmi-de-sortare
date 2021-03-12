@@ -1,3 +1,5 @@
+// sortare folosind metoda quicksort, pivotul este ales random
+
 #include<bits/stdc++.h>
 using namespace std;
 
