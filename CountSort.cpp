@@ -1,3 +1,5 @@
+// sortare folosind metoda countsort
+
 #include<bits/stdc++.h>
 #define MAX 1000001 // numerele intre 0 si MAX-1
 
