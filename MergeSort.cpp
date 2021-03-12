@@ -1,3 +1,5 @@
+// sortare folosind metoda mergesort
+
 #include<bits/stdc++.h>
 using namespace std;
 
