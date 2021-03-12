@@ -1,3 +1,5 @@
+// sortare folosind functia std::sort
+
 #include<bits/stdc++.h>
 using namespace std;
 
